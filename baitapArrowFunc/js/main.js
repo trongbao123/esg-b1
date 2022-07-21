@@ -1,9 +1,3 @@
-/**
- * Đổi màu ngồi nhà
- * B1: Hiển thị danh sách bảng màu
- * B2: Tạo chức năng đổi màu khi click
- */
-
 const colorList = ["pallet", "viridian", "pewter", "cerulean", "vermillion", "lavender", "celadon", "saffron", "fuschia", "cinnabar"];
 
 let loadButton = () => {

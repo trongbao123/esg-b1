@@ -1,13 +1,5 @@
-/**
- * Tính điểm trung bình của 2 khối lớp
- * 
- * + chỉ đc viết 1 hàm tính điểm cho cả 2 khối lớp
- */
-
-
-
 let tinhTB = (...diem) => {
-    console.log(diem);//Mảng điểm
+    console.log(diem);
     let tong = 0;
     diem.map((item) => {
         tong += item;
